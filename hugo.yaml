@@ -1,4 +1,4 @@
-baseurl: https://example.com/
+baseurl: https://github.com/chu-bao/zbb.git
 languageCode: en-us
 theme: hugo-theme-stack
 title: Example Site
