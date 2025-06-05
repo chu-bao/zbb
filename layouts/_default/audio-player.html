@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>音频播放器</title>
+  <!-- 引入APlayer -->
+  <link rel="stylesheet" href="https://fastly.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+</head>
+<body>
+  <div id="aplayer" style="margin:20px"></div>
+
+  <script src="https://fastly.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+  <script>
+    // 解析URL参数
+    const urlParams = new URLSearchParams(window.location.search);
+    const audioFile = urlParams.get('file');
+
+    // 动态创建播放器
+    const ap = new APlayer({
+      container: document.getElementById('aplayer'),
+      audio: [{
+        name: '示例音频',
+        artist: '创作者',
+        url: `/audio/${audioFile}`, // 指向static目录
+        cover: '/images/cover.jpg'  // 封面图路径
+      }]
+    });
+  </script>
+</body>
+</html>

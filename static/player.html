@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hugo 音频播放器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        #player {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            margin: 10px;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #status {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="player">
+        <audio id="audio" src="你的音乐文件.mp3" preload="auto" controls></audio>
+        <button id="playBtn">播放</button>
+        <button id="pauseBtn">暂停</button>
+        <button id="fastForwardBtn">快进</button>
+        <button id="rewindBtn">快退</button>
+        <button id="speedUpBtn">倍速</button>
+        <button id="speedDownBtn">减速</button>
+        <div id="status">状态: 停止</div>
+    </div>
+    <script>
+        const audio = document.getElementById('audio');
+        const playBtn = document.getElementById('playBtn');
+        const pauseBtn = document.getElementById('pauseBtn');
+        const fastForwardBtn = document.getElementById('fastForwardBtn');
+        const rewindBtn = document.getElementById('rewindBtn');
+        const speedUpBtn = document.getElementById('speedUpBtn');
+        const speedDownBtn = document.getElementById('speedDownBtn');
+        const statusDiv = document.getElementById('status');
+
+        let playbackRate = 1.0;
+
+        playBtn.addEventListener('click', () => {
+            audio.play();
+            statusDiv.innerText = '状态: 播放中';
+        });
+
+        pauseBtn.addEventListener('click', () => {
+            audio.pause();
+            statusDiv.innerText = '状态: 暂停';
+        });
+
+        fastForwardBtn.addEventListener('click', () => {
+            audio.currentTime += 10;
+            audio.play();
+        });
+
+        rewindBtn.addEventListener('click', () => {
+            audio.currentTime -= 10;
+            audio.play();
+        });
+
+        speedUpBtn.addEventListener('click', () => {
+            playbackRate += 0.25;
+            audio.playbackRate = playbackRate;
+            audio.play();
+        });
+
+        speedDownBtn.addEventListener('click', () => {
+            if (playbackRate > 0.25) {
+                playbackRate -= 0.25;
+            } else {
+                playbackRate = 0.25; // 防止播放速度过低
+            }
+            audio.playbackRate = playbackRate;
+            audio.play();
+        });
+    </script>
+</body>
+</html>

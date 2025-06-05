@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }} - 音频播放</title>
+    <style>
+        body { font-family: Arial; padding: 20px; }
+        .player-container { max-width: 500px; margin: 0 auto; }
+        .progress-point {
+            width: 12px; height: 12px;
+            background: #0066ff;
+            border-radius: 50%;
+            position: absolute;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div class="player-container">
+        <h2>{{ .Title }}</h2>
+        <audio controls style="width: 100%">
+            <source src="{{ .Params.audioSrc }}" type="audio/mpeg">
+        </audio>
+    </div>
+</body>
+</html>

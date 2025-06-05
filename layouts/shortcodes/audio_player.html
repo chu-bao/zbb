@@ -1,0 +1,40 @@
+<div class="audio-player" id="player-{{ .Get "id" }}">
+  <div class="audio-header">
+    <div class="audio-title-en"><strong>{{ .Get "title_en" }}</strong></div>
+    <div class="audio-title-cn"><p style="color:RGB(102,102,255);font-weight:bold;font-style:italic;font-size:18px;">{{ .Get "title_cn" }}</p></div>
+  </div>
+  
+  <audio 
+    id="audio-{{ .Get "id" }}" 
+    src="{{ .Get "src" }}" 
+    ontimeupdate="updateTime(this)"
+    onloadedmetadata="initDuration(this)">
+  </audio>
+
+  <div class="audio-controls">
+    <button onclick="document.getElementById('audio-{{ .Get "id" }}').play()">播放</button>
+    <button onclick="document.getElementById('audio-{{ .Get "id" }}').pause()">暂停</button>
+    <span class="current-time">00:00</span>/<span class="duration">01:18</span>
+  </div>
+</div>
+
+<script>
+// 初始化时长显示
+function initDuration(audio) {
+  const durationSpan = audio.closest('.audio-player').querySelector('.duration');
+  durationSpan.textContent = formatTime(audio.duration);
+}
+
+// 实时更新时间
+function updateTime(audio) {
+  const player = audio.closest('.audio-player');
+  player.querySelector('.current-time').textContent = formatTime(audio.currentTime);
+}
+
+// 时间格式化（秒→分:秒）
+function formatTime(seconds) {
+  const mins = Math.floor(seconds / 60);
+  const secs = Math.floor(seconds % 60);
+  return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+}
+</script>

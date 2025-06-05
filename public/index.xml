@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>希尔薇-Sylvie</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on 希尔薇-Sylvie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Sylvie-希尔薇</copyright>
+        <lastBuildDate>Thu, 08 May 2025 16:50:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>A Golden Tragedy</title>
+        <link>http://localhost:1313/p/a-golden-tragedy/</link>
+        <pubDate>Thu, 08 May 2025 16:50:25 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/a-golden-tragedy/</guid>
+        <description>&lt;style&gt;
+.my-class{
+    color: black;
+    font-family:Serif;
+    font-size: 20px;
+    text-align:center;
+}
+.class{
+font-family:serif;
+font-size:20px;
+text-align:center;
+font-weight:bold;
+}
+.golden-frame{
+  width: 360px; /* 固定图片宽度 */
+  margin-left:auto;
+  margin-right:auto;
+}
+.golden-frame img{
+ border-radius: 10px;
+}
+.golden-frame:hover {
+  transform: scale(1.01); /* 原1.02改为更细微的放大 */
+  transition: all 0.2s ease; /* 缩短动画时间 */
+  box-shadow: 0 4px 8px rgba(234, 193, 0, 0.15); /* 阴影减半 */
+  outline: 1px solid rgba(234, 193, 0, 0.3); 
+}
+&lt;/style&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/01.png&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;my-class&#34;;&gt;
+&lt;div class=&#34;class&#34;;&gt;A Golden Tragedy&lt;/div&gt;
+&lt;div class=&#34;my-class&#34;;&gt;    Long, long ago in a far-off land, there lived a very wealthy and kind king. &lt;br&gt;
+King Midas had everything anyone could hope for. He had immense wealth, &lt;br&gt;
+a peaceful kingdom, and a beautiful daughter, &lt;br&gt;
+whom he loved dearly. &lt;br&gt;
+Yet despite his good fortune, the king had one weakness.&lt;br&gt;
+ He wanted more. Most of all, he wanted to please his devoted daughter Penelope. &lt;br&gt;&lt;/div&gt;
+&lt;div style=&#34;display:none;&#34; id=&#34;hiddenContent&#34;&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/02.png&#34;&gt;&lt;/div&gt;
+Penelope cared though the plumpest, most beautiful birds in all the land. She left little&lt;br&gt;
+ doubt that she liked feathered creatures such as chickens, turkeys, ducks, and geese &lt;br&gt;
+best of all the animals on earth. Their feathers closely he landed in the bright sunshine&lt;br&gt;
+ and the cluckers, gobblers, quACKers, and honkers clucked, gobbled, quacked, aquacked,&lt;br&gt;
+ and honked musical notes with golden tones.&lt;br&gt;
+Every day but Tuesday, each bird laid three eggs that seemed bigger than melons. But that &lt;br&gt;
+was not good enough for Penelope. She wanted her fowl to lay golden eggs, too. Since the&lt;br&gt;
+ king never wanted to disappoint his daughter, he set off to visit a wise wizard to enlist his help.&lt;br&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/03.png&#34;&gt;&lt;/div&gt;
+King Midas asked the wizard for one wish.&#34;And what is your wish?&#34; the wizard asked.Without thinking &lt;br&gt;
+of the consequences,which was his usual way, King Midasstated, &#34;I would like the power to turn anything I&lt;br&gt;
+ touch into gold.&#34;The wizard, bewildered by the request,said, &#34;But you are already the wealthiest man in&lt;br&gt;
+any kingdom. What could you possibly do with more gold?&#34;King Midas simply said, &#34;It is more important &lt;br&gt;
+that I keep my daughter happy.&#34;&#34;Someday you will regret this,&#34; the wizard warned before casting the spell.&lt;br&gt;
+The king fixed his thoughts on delighting his daughter. He didn&#39;t even bother to inquire why the wizard &lt;br&gt;
+thought he would later regret his wish.This would prove to be a tragic mistake.&lt;br&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/04.png&#34;&gt;&lt;/div&gt;
+The king traveled the road back to the palace, testing his new power. His path became littered with golden &lt;br&gt;
+rocks and bordered by glistening flowers and trees with leaves of gold. The King saw only the golden hue of&lt;br&gt;
+ everything around him. He failed to notice that his kingdom turned stiff and still in his wake.&lt;br&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/05.png&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/06.png&#34;&gt;&lt;/div&gt;
+Excited, he entered the palace and ordered the chef to prepare a feast. &lt;br&gt;
+From there he walked to the royal barnyard. He went from nest to nest turning each egg to gold. &lt;br&gt;
+The royal dinner bell rang calling the king to his feast. &lt;br&gt;
+He sat down and instantly his chair became a golden throne. &lt;br&gt;
+When he picked up his fork, it too turned to gold, along with his bite of roasted pheasant. &lt;br&gt;
+He picked up his goblet and—presto!—it changed from silver to gold. &lt;br&gt;
+As the liquid inside touched his lips, it became solid gold.&lt;br&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/07.png&#34;&gt;&lt;/div&gt;
+&#34;What is this!&#34; exclaimed the king.  &lt;br&gt;
+&#34;What have I done? What ever shall  &lt;br&gt;
+I drink or eat?&#34;  &lt;br&gt;
+Just then Penelope came running  &lt;br&gt;
+into the room, dancing about in great  &lt;br&gt;
+excitement.  &lt;br&gt;
+&#34;Father, Father,&#34; she shouted with glee.  &lt;br&gt;
+&#34;Look what I found in the barnyard  &lt;br&gt;
+nests! Golden eggs!&#34;  &lt;br&gt;
+She threw her arms around her father&#39;s  &lt;br&gt;
+neck and gave him a huge hug.  &lt;br&gt;
+As one might expect, a tragedy occurred.  &lt;br&gt;
+Penelope froze in her loving embrace,  &lt;br&gt;
+still as a statue.  &lt;br&gt;
+&#34;Oh my, what have I done,&#34; King Midas  &lt;br&gt;
+cried. &#34;My daughter will never speak  &lt;br&gt;
+loving words to me again. She will never  &lt;br&gt;
+wrap her soft arms around me. What  &lt;br&gt;
+ever will I do?&#34;  &lt;br&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/08.png&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/09.png&#34;&gt;&lt;/div&gt;
+King Midas worked himself into a  &lt;br&gt;
+frenzied panic. He paced in circles.  &lt;br&gt;
+He dithered and fretted. Then it struck  &lt;br&gt;
+him. He had to return to the wizard  &lt;br&gt;
+and ask for another wish.  &lt;br&gt;
+Hurriedly the king mounted his horse,  &lt;br&gt;
+but before it took two steps it hardened  &lt;br&gt;
+into gold. The troubled king marched  &lt;br&gt;
+double-time to the wizard&#39;s cottage  &lt;br&gt;
+on the edge of his kingdom.  &lt;br&gt;
+When he arrived, he rushed to the door  &lt;br&gt;
+and rapped furiously.  &lt;br&gt;
+&#39;Let me in, let me in,&#34; his voice quivered  &lt;br&gt;
+and quaked.  &lt;br&gt;
+The wizard magically opened his now &lt;br&gt; 
+golden door, and King Midas bolled in.  &lt;br&gt;
+&#34;You must grant me another wish,&#34; the  &lt;br&gt;
+King demanded. &#34;I have made a terrible  &lt;br&gt;
+mistake. Please,&#34; he begged, &#34;turn all  &lt;br&gt;
+that I have touched back to what it was.&#34;  &lt;br&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/10.png&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/11.png&#34;&gt;&lt;/div&gt;
+&#34;The only way I can do that is to take  &lt;br&gt;
+away ALL the gold and glitter that  &lt;br&gt;
+surrounds you,&#34; warned the wizard.  &lt;br&gt;
+&#34;Even that which you had before this  &lt;br&gt;
+greedy goldten touch overtook you.  &lt;br&gt;
+Only then can the spell be reversed.  &lt;br&gt;
+Do you understand?&#34;  &lt;br&gt;
+urged the king wildly. &lt;br&gt; 
+With a flick of his wrist, the wizard  &lt;br&gt;
+removed the power that had become  &lt;br&gt;
+the King&#39;s curse.  &lt;br&gt;
+King Midas&#39;s clothes became drab and  &lt;br&gt;
+common. His palace shrank into a  &lt;br&gt;
+humble house. The King lost all that  &lt;br&gt;
+made him wealthy, but gained  &lt;br&gt;
+something far more precious—his  &lt;br&gt;
+daughter. He learned that there was  &lt;br&gt;
+much more to life than glitter and gold.  
+&lt;div class=&#34;golden-frame&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/12.png&#34;&gt;&lt;/div&gt;
+ &lt;a href=&#34;javascript:void(0)&#34; onclick=&#34;this.parentElement.style.display=&#39;none&#39;; document.getElementById(&#39;moreLink&#39;).style.display=&#39;inline&#39;&#34;&gt;
+    [收起]
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;a href=&#34;javascript:void(0)&#34; id=&#34;moreLink&#34; onclick=&#34;this.style.display=&#39;none&#39;; document.getElementById(&#39;hiddenContent&#39;).style.display=&#39;block&#39;&#34;&gt;
+  &lt;p style=&#34;color:#eac100;font-weight:bold;&#34;&gt;Read more...&lt;/p&gt;
+&lt;/a&gt;
+</description>
+        </item>
+        <item>
+        <title>新概念英语第二册</title>
+        <link>http://localhost:1313/p/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E7%AC%AC%E4%BA%8C%E5%86%8C/</link>
+        <pubDate>Thu, 08 May 2025 16:45:27 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E7%AC%AC%E4%BA%8C%E5%86%8C/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#audio1&#34; &gt;01 Private Conversation 私人谈话&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#audio2&#34; &gt;02 Breakfast or Lunch 早餐还是午餐&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#audio3&#34; &gt;03 Please Send Me a Card 请给我寄一张明信片&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#audio4&#34; &gt;04 An exciting trip 激动人心的旅行&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#audio5&#34; &gt;05 No wrong number 无错号之虞&lt;/a&gt;
+&lt;div class=&#34;audio-player&#34; id=&#34;player-1&#34;&gt;
+  &lt;div class=&#34;audio-header&#34;&gt;
+    &lt;div class=&#34;audio-title-en&#34;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/div&gt;
+    &lt;div class=&#34;audio-title-cn&#34;&gt;&lt;p style=&#34;color:RGB(102,102,255);font-weight:bold;font-style:italic;font-size:18px;&#34;&gt;01、Private Conversation 私人谈话&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;audio 
+    id=&#34;audio-1&#34; 
+    src=&#34;http://localhost:1313/audio/01.mp3&#34; 
+    ontimeupdate=&#34;updateTime(this)&#34;
+    onloadedmetadata=&#34;initDuration(this)&#34;&gt;
+  &lt;/audio&gt;
+
+  &lt;div class=&#34;audio-controls&#34;&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-1&#39;).play()&#34;&gt;播放&lt;/button&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-1&#39;).pause()&#34;&gt;暂停&lt;/button&gt;
+    &lt;span class=&#34;current-time&#34;&gt;00:00&lt;/span&gt;/&lt;span class=&#34;duration&#34;&gt;01:18&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+
+function initDuration(audio) {
+  const durationSpan = audio.closest(&#39;.audio-player&#39;).querySelector(&#39;.duration&#39;);
+  durationSpan.textContent = formatTime(audio.duration);
+}
+
+
+function updateTime(audio) {
+  const player = audio.closest(&#39;.audio-player&#39;);
+  player.querySelector(&#39;.current-time&#39;).textContent = formatTime(audio.currentTime);
+}
+
+
+function formatTime(seconds) {
+  const mins = Math.floor(seconds / 60);
+  const secs = Math.floor(seconds % 60);
+  return `${mins.toString().padStart(2, &#39;0&#39;)}:${secs.toString().padStart(2, &#39;0&#39;)}`;
+}
+&lt;/script&gt;
+听录音，然后回答以下问题👂️{#audio1}&lt;br&gt;
+&lt;strong&gt;Why did the writer complain to the people behind him?&lt;/strong&gt;&lt;br&gt;
+Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not&lt;br&gt;
+enjoy it. A young man and a young woman were sitting behind me. They were talking loudly. I got &lt;br&gt;
+very angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. &lt;br&gt;
+They did not pay any attention. In the end, I could not bear it. I turned round again. &amp;lsquo;I can&amp;rsquo;t hear a word!&amp;rsquo; I said angrily.&lt;br&gt;
+&amp;lsquo;It&amp;rsquo;s none of your business,&amp;rsquo; the young man said rudely. &amp;lsquo;This is a private conversation!&amp;rsquo;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;New words and expressions 生词和短语&lt;/strong&gt;&lt;br&gt;
+private adj. 私人的&lt;br&gt;
+conversation n. 谈话&lt;br&gt;
+theatre n. 剧场，戏院&lt;br&gt;
+seat n. 座位&lt;br&gt;
+play n. 戏&lt;br&gt;
+loudly adv. 大声地&lt;br&gt;
+angry adj. 生气的&lt;br&gt;
+angrily adv. 生气地&lt;br&gt;
+attention n. 注意&lt;br&gt;
+bear v. 容忍&lt;br&gt;
+business n. 事&lt;br&gt;
+rudely adv. 无礼地，粗鲁地&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;参考译文&lt;/strong&gt;&lt;br&gt;
+上星期我去看戏。我的座位很好，戏很有意思，但我却无法欣赏。一青年男子与一青年女子坐在我的身后，大声地说着话。我非常生气，&lt;br&gt;
+因为我听不见演员在说什么。我回过头去怒视着那一男一女，他们却毫不理会。最后，我忍不住了，又一次回过头去，生气地说：&amp;ldquo;我一&lt;br&gt;
+个字也听不见了！&amp;ldquo;&amp;ldquo;不关你的事，&amp;ldquo;那男的毫不客气地说，&amp;ldquo;这是私人间的谈话！&amp;quot;&lt;br&gt;
+******************************************************************&lt;/p&gt;
+&lt;h1 id=&#34;audio2&#34;&gt;&lt;/h1&gt;
+&lt;div class=&#34;audio-player&#34; id=&#34;player-2&#34;&gt;
+  &lt;div class=&#34;audio-header&#34;&gt;
+    &lt;div class=&#34;audio-title-en&#34;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/div&gt;
+    &lt;div class=&#34;audio-title-cn&#34;&gt;&lt;p style=&#34;color:RGB(102,102,255);font-weight:bold;font-style:italic;font-size:18px;&#34;&gt;02、Breakfast or lunch 早餐还是午餐🥣&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;audio 
+    id=&#34;audio-2&#34; 
+    src=&#34;http://localhost:1313/audio/02.mp3&#34; 
+    ontimeupdate=&#34;updateTime(this)&#34;
+    onloadedmetadata=&#34;initDuration(this)&#34;&gt;
+  &lt;/audio&gt;
+
+  &lt;div class=&#34;audio-controls&#34;&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-2&#39;).play()&#34;&gt;播放&lt;/button&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-2&#39;).pause()&#34;&gt;暂停&lt;/button&gt;
+    &lt;span class=&#34;current-time&#34;&gt;00:00&lt;/span&gt;/&lt;span class=&#34;duration&#34;&gt;01:18&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+
+function initDuration(audio) {
+  const durationSpan = audio.closest(&#39;.audio-player&#39;).querySelector(&#39;.duration&#39;);
+  durationSpan.textContent = formatTime(audio.duration);
+}
+
+
+function updateTime(audio) {
+  const player = audio.closest(&#39;.audio-player&#39;);
+  player.querySelector(&#39;.current-time&#39;).textContent = formatTime(audio.currentTime);
+}
+
+
+function formatTime(seconds) {
+  const mins = Math.floor(seconds / 60);
+  const secs = Math.floor(seconds % 60);
+  return `${mins.toString().padStart(2, &#39;0&#39;)}:${secs.toString().padStart(2, &#39;0&#39;)}`;
+}
+&lt;/script&gt;
+听录音，然后回答以下问题。👂️&lt;br&gt;
+**Why was the writer&#39;s aunt surprised?**&lt;br&gt;
+It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lunchtime. Last Sunday I got up very late. I looked out of &lt;br&gt;the window. It was dark outside. &#39;What a day!&#39; I thought. &#39;It&#39;s raining again.&#39; Just then, the telephone rang. It was my aunt Lucy. &lt;br&gt;&#39;I&#39;ve just arrived by train,&#39; she said. &#39;I&#39;m coming to see you.&#39;&lt;br&gt;
+&#39;But I&#39;m still having breakfast,&#39; I said.&lt;br&gt;
+&#39;What are you doing?&#39; she asked.&lt;br&gt;
+&#39;I&#39;m having breakfast,&#39; I repeated.&lt;br&gt;
+&#39;Dear me,&#39; she said. &#39;Do you always get up so late? It&#39;s one o&#39;clock!&#39;&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;New words and expressions 生词和短语&lt;/strong&gt;&lt;br&gt;
+until prep. 直到&lt;br&gt;
+outside adv. 外面&lt;br&gt;
+ring v. （铃、电话等）响&lt;br&gt;
+aunt n. 姑，姨，婶，舅母&lt;br&gt;
+repeat v. 重复&lt;br&gt;
+&lt;strong&gt;参考译文&lt;/strong&gt;&lt;br&gt;
+那是个星期天，而在星期天我是从来不早起的，有时我要一直躺到吃午饭的时候。上个星期天，我起得很晚。我望望窗外，外面一片昏暗。&amp;ldquo;鬼天&lt;br&gt;气！&amp;ldquo;我想，&amp;ldquo;又下雨了。&amp;ldquo;正在这时，电话铃响了。是我姑母露西打来的。&amp;ldquo;我刚下火车，&amp;ldquo;她说，&amp;ldquo;我这就来看你。&amp;quot;&lt;br&gt;
+&amp;ldquo;但我还在吃早饭，&amp;ldquo;我说。&lt;br&gt;
+&amp;ldquo;你在干什么？&amp;ldquo;她问道。&lt;br&gt;
+&amp;ldquo;我正在吃早饭，&amp;ldquo;我又说了一遍。&lt;br&gt;
+&amp;ldquo;天啊，&amp;ldquo;她说，&amp;ldquo;你总是起得这么晚吗？现在已经1点钟了！&amp;quot;&lt;br&gt;
+******************************************************************&lt;/p&gt;
+&lt;h1 id=&#34;audio3&#34;&gt;&lt;/h1&gt;
+&lt;div class=&#34;audio-player&#34; id=&#34;player-3&#34;&gt;
+  &lt;div class=&#34;audio-header&#34;&gt;
+    &lt;div class=&#34;audio-title-en&#34;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/div&gt;
+    &lt;div class=&#34;audio-title-cn&#34;&gt;&lt;p style=&#34;color:RGB(102,102,255);font-weight:bold;font-style:italic;font-size:18px;&#34;&gt;03、Please send me a card 请给我寄一张明信片📩&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;audio 
+    id=&#34;audio-3&#34; 
+    src=&#34;http://localhost:1313/audio/03.mp3&#34; 
+    ontimeupdate=&#34;updateTime(this)&#34;
+    onloadedmetadata=&#34;initDuration(this)&#34;&gt;
+  &lt;/audio&gt;
+
+  &lt;div class=&#34;audio-controls&#34;&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-3&#39;).play()&#34;&gt;播放&lt;/button&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-3&#39;).pause()&#34;&gt;暂停&lt;/button&gt;
+    &lt;span class=&#34;current-time&#34;&gt;00:00&lt;/span&gt;/&lt;span class=&#34;duration&#34;&gt;01:18&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+
+function initDuration(audio) {
+  const durationSpan = audio.closest(&#39;.audio-player&#39;).querySelector(&#39;.duration&#39;);
+  durationSpan.textContent = formatTime(audio.duration);
+}
+
+
+function updateTime(audio) {
+  const player = audio.closest(&#39;.audio-player&#39;);
+  player.querySelector(&#39;.current-time&#39;).textContent = formatTime(audio.currentTime);
+}
+
+
+function formatTime(seconds) {
+  const mins = Math.floor(seconds / 60);
+  const secs = Math.floor(seconds % 60);
+  return `${mins.toString().padStart(2, &#39;0&#39;)}:${secs.toString().padStart(2, &#39;0&#39;)}`;
+}
+&lt;/script&gt;
+听录音，然后回答以下问题👂️&lt;br&gt;
+**How many cards did the writer send?**&lt;br&gt;
+Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me&lt;br&gt; a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Everyday I thought about &lt;br&gt;postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early &lt;br&gt;and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!&lt;br&gt;
+&lt;p&gt;**New words and expressions **生词和短语🏳️‍🌈&lt;br&gt;
+send v. 寄，送&lt;br&gt;
+postcard n. 明信片&lt;br&gt;
+spoil v. 使索然无味，损坏&lt;br&gt;
+museum n. 博物馆&lt;br&gt;
+public adj. 公共的&lt;br&gt;
+friendly adj. 友好的&lt;br&gt;
+waiter n. 服务员，招待员&lt;br&gt;
+lend v. 借给&lt;br&gt;
+decision n. 决定&lt;br&gt;
+whole adj. 整个的&lt;br&gt;
+single adj. 唯一的，单一的&lt;br&gt;
+&lt;strong&gt;参考译文&lt;/strong&gt;&lt;br&gt;
+明信片总搅得我假日不得安宁。去年夏天，我去了意大利。我参观了博物馆，还去了公园。一位好客的服务员教了我几句意大利语，之后还&lt;br&gt;
+借给我一本书。我读了几行，但一个字也不懂。我每天都想着明信片的事。假期过得真快，可我还没有给我的朋友们寄过一张明信片。&lt;br&gt;
+到了最后一天，我作出了一项重大决定。我早早起了床，买来了37张明信片。我在房间里关了整整一天。然而竟连一张明信片也没写成！
+******************************************************************&lt;/p&gt;
+&lt;h1 id=&#34;audio4&#34;&gt;&lt;/h1&gt;
+&lt;div class=&#34;audio-player&#34; id=&#34;player-4&#34;&gt;
+  &lt;div class=&#34;audio-header&#34;&gt;
+    &lt;div class=&#34;audio-title-en&#34;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/div&gt;
+    &lt;div class=&#34;audio-title-cn&#34;&gt;&lt;p style=&#34;color:RGB(102,102,255);font-weight:bold;font-style:italic;font-size:18px;&#34;&gt;04、An exciting trip 激动人心的旅行✈️&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;audio 
+    id=&#34;audio-4&#34; 
+    src=&#34;http://localhost:1313/audio/04.mp3&#34; 
+    ontimeupdate=&#34;updateTime(this)&#34;
+    onloadedmetadata=&#34;initDuration(this)&#34;&gt;
+  &lt;/audio&gt;
+
+  &lt;div class=&#34;audio-controls&#34;&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-4&#39;).play()&#34;&gt;播放&lt;/button&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-4&#39;).pause()&#34;&gt;暂停&lt;/button&gt;
+    &lt;span class=&#34;current-time&#34;&gt;00:00&lt;/span&gt;/&lt;span class=&#34;duration&#34;&gt;01:18&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+
+function initDuration(audio) {
+  const durationSpan = audio.closest(&#39;.audio-player&#39;).querySelector(&#39;.duration&#39;);
+  durationSpan.textContent = formatTime(audio.duration);
+}
+
+
+function updateTime(audio) {
+  const player = audio.closest(&#39;.audio-player&#39;);
+  player.querySelector(&#39;.current-time&#39;).textContent = formatTime(audio.currentTime);
+}
+
+
+function formatTime(seconds) {
+  const mins = Math.floor(seconds / 60);
+  const secs = Math.floor(seconds % 60);
+  return `${mins.toString().padStart(2, &#39;0&#39;)}:${secs.toString().padStart(2, &#39;0&#39;)}`;
+}
+&lt;/script&gt;
+听录音，然后回答以下问题👂️&lt;br&gt;
+Why is Tim finding this trip exciting?&lt;br&gt;
+I have just received a letter from my brother, Tim. He is in Australia. He has been there for six months. Tim is an engineer. He is working &lt;br&gt;for a big firm and he has already visited a great number of different places in Australia. He has just bought an Australian car and has &lt;br&gt;gone to Alice springs, a small town in the centre of Australia. He will soon visit Darwin. From there, he will fly to Perth. My brother &lt;br&gt;has never been abroad before, so he is fending this trip very exciting.&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;New words and expressions 生词和短语&lt;/strong&gt;&lt;br&gt;
+exciting adj. 令人兴奋的&lt;br&gt;
+receive v. 接受，收到&lt;br&gt;
+firm n. 商行，公司&lt;br&gt;
+different adj. 不同的&lt;br&gt;
+centre n. 中心&lt;br&gt;
+abroad adv. 在国外&lt;br&gt;
+&lt;strong&gt;参考译文&lt;/strong&gt;&lt;br&gt;
+我刚刚收到弟弟蒂姆的来信，他正在澳大利亚。他在那儿已经住了6个月了。蒂姆是个工程师，正在一家大公司工作，并且已经去过澳大利亚的不少地&lt;br&gt;方了。他刚买了一辆澳大利亚小汽车，现在去了澳大利亚中部的小镇艾利斯斯普林斯。他不久还将到达达尔文去，从那里，他再飞往珀斯。我弟&lt;br&gt;弟以前从未出过国，因此，他觉得这次旅行非常激动人心&lt;br&gt;
+******************************************************************&lt;/p&gt;
+&lt;h1 id=&#34;audio5&#34;&gt;&lt;/h1&gt;
+&lt;div class=&#34;audio-player&#34; id=&#34;player-5&#34;&gt;
+  &lt;div class=&#34;audio-header&#34;&gt;
+    &lt;div class=&#34;audio-title-en&#34;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/div&gt;
+    &lt;div class=&#34;audio-title-cn&#34;&gt;&lt;p style=&#34;color:RGB(102,102,255);font-weight:bold;font-style:italic;font-size:18px;&#34;&gt;05、No wrong numbers 无错号之虞☎️&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;audio 
+    id=&#34;audio-5&#34; 
+    src=&#34;http://localhost:1313/audio/05.mp3&#34; 
+    ontimeupdate=&#34;updateTime(this)&#34;
+    onloadedmetadata=&#34;initDuration(this)&#34;&gt;
+  &lt;/audio&gt;
+
+  &lt;div class=&#34;audio-controls&#34;&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-5&#39;).play()&#34;&gt;播放&lt;/button&gt;
+    &lt;button onclick=&#34;document.getElementById(&#39;audio-5&#39;).pause()&#34;&gt;暂停&lt;/button&gt;
+    &lt;span class=&#34;current-time&#34;&gt;00:00&lt;/span&gt;/&lt;span class=&#34;duration&#34;&gt;01:18&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+
+function initDuration(audio) {
+  const durationSpan = audio.closest(&#39;.audio-player&#39;).querySelector(&#39;.duration&#39;);
+  durationSpan.textContent = formatTime(audio.duration);
+}
+
+
+function updateTime(audio) {
+  const player = audio.closest(&#39;.audio-player&#39;);
+  player.querySelector(&#39;.current-time&#39;).textContent = formatTime(audio.currentTime);
+}
+
+
+function formatTime(seconds) {
+  const mins = Math.floor(seconds / 60);
+  const secs = Math.floor(seconds % 60);
+  return `${mins.toString().padStart(2, &#39;0&#39;)}:${secs.toString().padStart(2, &#39;0&#39;)}`;
+}
+&lt;/script&gt;
+听录音，然后回答以下问题。👂️&lt;br&gt;
+What does &#39;No wrong numbers&#39; mean?&lt;br&gt;
+Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, &lt;br&gt;but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. Yesterday, a pigeon carried the first &lt;br&gt;message from Pinhurst to Silbury. The bird covered the distance in three minutes. Up to now, Mr.Scott has sent a great many &lt;br&gt;requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private &lt;br&gt;&#39;telephone&#39; service.&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;New words and expressions 生词和短语&lt;/strong&gt;&lt;br&gt;
+pigeon n. 鸽子&lt;br&gt;
+message n. 信息&lt;br&gt;
+cover v. 越过&lt;br&gt;
+distance n. 距离&lt;br&gt;
+request n. 要求，请求&lt;br&gt;
+spare part 备件&lt;br&gt;
+service n. 业务，服务&lt;br&gt;
+&lt;strong&gt;参考译文&lt;/strong&gt;&lt;br&gt;
+詹姆斯.斯科特先生在锡尔伯里有一个汽车修理部，现在他刚在平赫斯特买了另一个汽车修理部。平赫特离锡尔伯里只有5英里，但詹姆斯.斯科特先生&lt;br&gt;未能为他新的汽车修理部搞到一部电话机，所以他买了只鸽子。昨天，一只鸽子把第一封信从平赫特带到锡尔伯里。这只鸟只用了3分钟就飞完&lt;br&gt;了全程。到目前为止，斯科特先生从一个汽车修理部向另一个发送了大量索取备件的信件和其他紧急函件。就这样，他开始自己的私人&amp;quot;电话&amp;quot;业务。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Emoji Support</title>
+        <link>http://localhost:1313/p/emoji-support/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/emoji-support/</guid>
+        <description>&lt;img src="http://localhost:1313/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:1313/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>http://localhost:1313/%E6%90%9C%E7%B4%A2/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/%E6%90%9C%E7%B4%A2/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
