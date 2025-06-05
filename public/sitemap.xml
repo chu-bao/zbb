@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/</loc>
     <lastmod>2025-05-08T16:50:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/p/a-golden-tragedy/</loc>
     <lastmod>2025-05-08T16:50:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/post/</loc>
+    <lastmod>2025-05-08T16:50:25+08:00</lastmod>
+  </url><url>
+    <loc>https://github.com/chu-bao/zbb.git/p/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E7%AC%AC%E4%BA%8C%E5%86%8C/</loc>
+    <lastmod>2025-05-08T16:45:27+08:00</lastmod>
+  </url><url>
+    <loc>https://github.com/chu-bao/zbb.git/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/categories/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emoji/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/emoji-support/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/categories/test/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:1313/%E6%90%9C%E7%B4%A2/</loc>
+    <loc>https://github.com/chu-bao/zbb.git/%E6%90%9C%E7%B4%A2/</loc>
   </url>
 </urlset>
